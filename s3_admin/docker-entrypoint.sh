@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 MC_FILE=mc
 MC_FILE_BIN=/bin/mc
 if [ -f "$MC_FILE" ] || [ -f "$MC_FILE_BIN" ]
